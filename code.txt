@@ -1,0 +1,8 @@
+[A[B[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D>>code.txt
+[A[C[C[C[C[C[C[C[C[C[C$ [A[A[B[Bcat code.txt[D[D[D[D[D[D[D[D>[C[C[C[C[D[D[D[Dcode.txt
+
+
+
+clear
+exit\n
+exit/n
